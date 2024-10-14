@@ -55,7 +55,12 @@ main p{
 img {
     width: 25%;
     max-width: 200px;
-    padding: 0px 8px 0px;
+    margin: 0px 8px 0px;
+}
+
+img:hover {
+    padding: 1px;
+    border: 1px solid var(--cor1)
 }
 
 .bot {
