@@ -55,12 +55,12 @@ main p{
 img {
     width: 25%;
     max-width: 200px;
-    padding: 0px 12px 0px;
+    padding: 0px 10px 0px;
 }
 
 .bot {
     display: inline;
-    padding: 6px 13px;
+    padding: 6px 11px;
     border: 2px;
     border-style: solid;
     margin: auto;
