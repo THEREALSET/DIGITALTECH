@@ -55,7 +55,10 @@ main p{
 img {
     width: 23%;
     max-width: 200px;
-    margin: 0px 8px 0px;
+    margin: 1.5vw;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
 }
 
 img:hover {
@@ -65,10 +68,10 @@ img:hover {
 
 .bot {
     display: inline;
-    padding: 6px 2vw;
+    padding: 6px 1.7vw;
     border: 2px;
     border-style: solid;
-    margin: 2.7%;
+    margin: 3%;
     border-color: var(--cor2);
     font-size: 0.9em;
 }
