@@ -68,10 +68,10 @@ img:hover {
 
 .bot {
     display: inline;
-    padding: 6px 1.7vw;
+    padding: 6px 1.3vw;
     border: 2px;
     border-style: solid;
-    margin: 2.7%;
+    margin: 2.4vw;
     border-color: var(--cor2);
     font-size: 0.9em;
 }
